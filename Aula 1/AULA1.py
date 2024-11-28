@@ -1,0 +1,5 @@
+print("Olá,mundo")
+print("texto1")
+print("textoteste")
+print("textoteste2")
+print("textoteste3")
